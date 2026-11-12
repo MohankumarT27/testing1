@@ -16,7 +16,7 @@
         },
         {
           "paths": [
-            { "langs": ["en"], "path": "getting-started-guides/floik.md" }
+            { "langs": ["en"], "path": "getting-started-guides/importarticlefile.md" }
           ]
         }
       ]

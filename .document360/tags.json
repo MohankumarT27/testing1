@@ -1,4 +1,10 @@
 {
   "groups": [],
-  "tags": []
+  "tags": [
+    {
+      "guid": "baa01f87-1531-4113-ba24-5641e7ec821b",
+      "uniqueId": "adasd",
+      "name": "adasd"
+    }
+  ]
 }
